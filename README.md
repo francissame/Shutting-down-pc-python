@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @francissame
+- 👋 Hi, I’m @francissamuel005
 - 👀 I’m interested in software programming
 - 🌱 I’m currently learning full stack web development
 - 💞️ 
