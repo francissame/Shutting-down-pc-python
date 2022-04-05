@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @francissamuel005
-- 👀 I’m interested in software programming
-- 🌱 I’m currently learning full stack web development
+- 👋 Hi, I’m francissamuel005
+- 👀 interested in software programming
+- 🌱 web Developer (python web)
 - 💞️ 
 - 📫 How to reach me @francissamuel005@gmail.com/ WhatsApp:08088083472
 
